@@ -17,7 +17,7 @@ showTableOfContents: false
 
 ## [Immagini](/calcetto)
 
-# Podismo
+# PODISMO
 
 # [{{< icon "instagram" >}}](https://www.instagram.com/atleticacastello/) [{{< icon "facebook" >}}](https://www.facebook.com/ASDAtleticaCastelloFirenze)
 
@@ -32,7 +32,7 @@ showTableOfContents: false
 # [{{< icon "whatsapp" >}}](https://wa.me/3335778330)
 
 
-# Calcio
+# CALCIO
 
 # [Sito web](https://www.atleticacastellocalcio.it/)
 
@@ -41,18 +41,18 @@ showTableOfContents: false
 # [{{< icon "whatsapp" >}}](https://wa.me/3478257275)
 
 
-# Volley
+# VOLLEY
 
 # [{{< icon "phone" >}} tel. : 334 2825028](tel:3342825028)
 
 # [{{< icon "whatsapp" >}}](https://wa.me/3342825028)
 
 
-# Basket
+# BASKET
 
 # [{{< icon "instagram" >}}](https://www.instagram.com/basketatleticacastellouisp/)
   	
-# Ginnastica Ritmica
+# GINNASTICA RITMICA
 
 # [{{< icon "instagram" >}}](https://www.instagram.com/ginnasticaritmicacastello/)
 
@@ -61,7 +61,7 @@ showTableOfContents: false
 # [{{< icon "whatsapp" >}}](https://wa.me/3397608529)
 
 
-# Ginnastica ADULTI
+# GINNASTICA ADULTI
 
 # [{{< icon "phone" >}} tel. : 348 8259610](tel:3488259610)
 
